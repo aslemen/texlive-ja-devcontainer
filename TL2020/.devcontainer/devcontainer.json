@@ -1,0 +1,10 @@
+{
+    "name": "texlive-2020-ja",
+    "image": "doratex/texlive2020pretest-haranoaji:20200303",
+    "remoteEnv": {
+        "LANG": "C.UTF-8"
+    },
+    "extensions": [
+        "james-yu.latex-workshop"
+    ]
+}
